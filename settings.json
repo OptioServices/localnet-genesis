@@ -1,0 +1,8 @@
+{
+	"environment": "localnet",
+	"moniker": "optio",
+	"chainId": "optio-localnet",
+	"symbol": "OPT",
+	"microDenom": "uOPT",
+	"decimals": 6
+}

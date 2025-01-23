@@ -1,0 +1,7 @@
+{
+    "denom": "OPT",
+    "maxSupply": 30000000000, 
+    "accounts": [
+        { "email": "localnet@optio.net", "name": "Localnet", "address": "optio1g94krmv2ax2z2cdll4f7f0hq6s6h7ahtul4lcl", "amount": 30000000000, "stake": 1000000 }
+    ]
+}
